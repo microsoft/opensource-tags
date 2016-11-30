@@ -1,0 +1,48 @@
+name,displayName,description
+aspnet,ASP.NET,The .NET platform for making web based applications
+net,.NET,The .NET Framework is used for making modern applications
+websites,Websites,Repositories related to making websites
+commandlineexperiences,Command Line Experiences,Utilities for more easily interacting with Microsoft products via CLI
+microsoftazure,Microsoft Azure,Microsoft's cloud platform for enterprises large and small
+mobile,Mobile,"Code running on phones, tablets, and other devices"
+communityprojects,Community Projects,Projects serving the Microsoft community
+otherprojects,Other Projects,
+windows,Windows,Microsoft's operating system
+samples,Samples,Code samples for people using Microsoft technologies
+qtandotherprojects,QT and Other Projects,An application framework for developing cross platform apps in C++
+javascript,JavaScript,World's most popular programming language. Used in the web browser and in Node.js
+typescript,TypeScript,Microsoft open source project providing strong type support to JavaScript
+graphics,Graphics,DirectX and other graphics samples
+applicationinsights,Application Insights,Logging and performance metric tool built for Azure
+tools,Tools,Code to help developers be more productive
+kinect,Kinect,Xbox add on for alowing voice and gesture interaction with user interfaces
+security,Security,Ensuring data safety
+sdks,SDKs,Tools for creating software applications
+powershell,PowerShell,Open source task automation framework for CLI
+frameworks,Frameworks,Structures for building software applications
+researchprojects,Research Projects,Experimental and exploratory code
+visualstudio,Visual Studio,Microsoft's flagship IDE for creating applications in .NET and other languages
+windowsserver,Windows Server,Microsoft's server operating system
+internetexplorer,Internet Explorer,First generation Microsoft web browser
+reactiveextensions,Reactive Extensions,"Libraries for asynchronous, event-based programming"
+winjs,WinJS,JavaScript library used for building windows platform applications
+demosandpresentations,Demos and Presentations,Code samples from Microsoft demos and presentations
+yammer,Yammer,Collaboration tool for businesses
+documentation,Documentation,Documentation describing Microsoft products and technologies
+office,Office,Suite of productivity tools for businesses
+onedrive,One Drive,Access files and photos from anywhere
+nokiaasha,Nokia Asha,Code for use with Nokia Asha feature phones
+nokiax,Nokia X,Code for apps running on the Nokia X Phone
+odata,OData,Protocol for creating queryable REST APIs
+containers,Containers,Method for virtualization of software environments at the operating system level
+microsoftedge,Microsoft Edge,"Next generation, high performance web browser"
+thali,Thali,Peer to Peer Sharing for Mobile
+media,Media,Tools for delivering media to users
+nuget,NuGet,Package manager for .NET
+internetofthings,Internet of Things,Connecting everyday objects to the internet
+sharepoint,Share Point,Collaboration tools for businesses
+healthvault,Health Vault,Tools for gathering and storing health data online
+microsoftdynamics,Microsoft Dynamics,Tools for managing your business and customers
+microsoftopentechnologies,Microsoft Open Technologies,Open source utilities from Microsoft
+microsoftresearch,Microsoft Research,Research based code
+windowsphone,Windows Phone,Microsoft's mobile offering

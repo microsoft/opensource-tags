@@ -1,0 +1,22 @@
+{
+  "name": "opensource-tags",
+  "version": "0.0.1",
+  "description": "Tag definitions for opensource.microsoft.com",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/opensource-tags.git"
+  },
+  "author": "Microsoft",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/Microsoft/opensource-tags/issues"
+  },
+  "homepage": "https://github.com/Microsoft/opensource-tags#readme",
+  "devDependencies": {
+    "csv-parser": "^1.11.0"
+  }
+}
