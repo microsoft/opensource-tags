@@ -4,6 +4,7 @@
   "description": "Tag definitions for opensource.microsoft.com",
   "main": "generate.js",
   "scripts": {
+    "start": "node generate.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
