@@ -1,6 +1,7 @@
 ---
 name: assembly
 displayName: Assembly
-description: Low-level programming language.
+description: A low-level programming language
 ---
-Low-level programming language.
+
+An assembly (or assembler) language, is any low-level programming language.

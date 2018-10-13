@@ -48,6 +48,7 @@ microsoftresearch,Microsoft Research,Research based code
 windowsphone,Windows Phone,Microsoft's mobile offering
 uwp,UWP,The Universal Windows Platform is a common software platform for all devices running Windows 10
 microsoftdocs,MicrosoftDocs,The modern documentation service for Microsoft
+docker,Docker,"A computer program that performs operating-system-level virtualization, also known as ""containerization""."
 project-everest,Project Everest,"Project Everest aims to build and deploy a verified HTTPS stack. From Microsoft Research."
 docs,Docs,Documentation for Microsoft projects.
-assembly,Assembly,Low-level programming language.
+assembly,Assembly,"A low-level programming language"
