@@ -1,4 +1,4 @@
- ---
+---
 name: qsharp
 displayName: q#
 description: A quantum computing programming language
