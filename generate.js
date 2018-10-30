@@ -11,5 +11,9 @@ fs.createReadStream(filename)
   .pipe(csv())
   .on('data', function (data) {
     const markdown = `---\nname: ${data.name}\ndisplayName: ${data.displayName}\ndescription: ${data.description}\n---\n${data.content || data.description}`;
-    fs.writeFile(`tags/${data.name}.md`, markdown);
+    fs.writeFile(`tags/${data.name}.md`, markdown, (err) => {
+      if(err){
+        console.log(`Could not save file ${data.name}.md: `, err);
+      }
+    });
   });
