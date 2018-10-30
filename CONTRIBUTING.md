@@ -1,6 +1,6 @@
 ## Contributing
 
-We take pull requests to add information to tags! Feel free to fork this repo, and add a pull for any tag you would like.
+We take pull requests to add information to tags! Feel free to fork this repo, and add a pull request for any tag you would like.
 
 
 ### Tags
@@ -19,7 +19,7 @@ description: The .NET platform for making web based applications
 
 Wiki content goes below this, and is optional for initial commits.
 
-There is a simple utility for generating tag data in node. It is in the generate.js file. Replace the file name with a CSV file of your choice, and run node generate.
+There is a simple utility for generating tag data in node. It is in the `generate.js` file. Replace the file name with a CSV file of your choice, and run node generate.
 
 
 ### Legal
