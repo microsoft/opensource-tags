@@ -49,4 +49,5 @@ windowsphone,Windows Phone,Microsoft's mobile offering
 uwp,UWP,The Universal Windows Platform is a common software platform for all devices running Windows 10
 microsoftdocs,MicrosoftDocs,The modern documentation service for Microsoft
 docker,Docker,"A computer program that performs operating-system-level virtualization, also known as ""containerization""."
+machinelearning,"Machine Learning","Tools that help computers learn from data"
 html,HTML,"Standard markup language for creating web pages"
