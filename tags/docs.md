@@ -1,6 +1,6 @@
 ---
 name: docs
-displayName: Docs
-description: Documentation for Microsoft projects.
+displayName: Documentation
+description: Documentation describing Microsoft products and technologies.
 ---
-Documentation for Microsoft projects.
+Documentation describing Microsoft products and technologies
